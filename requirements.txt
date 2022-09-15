@@ -1,0 +1,16 @@
+
+torchvision
+opencv
+efficientnet_pytorch
+imgaug
+facenet_pytorch-2.2.7-py3-none-any.whl
+moviepy
+albumentations
+fastbook
+flask
+werkzeug
+
+
+
+
+
