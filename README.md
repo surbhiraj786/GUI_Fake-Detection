@@ -1,6 +1,6 @@
 <h1>Fake Detection System</h1>
 
-<h3>Table of content</h3>
+Table of content
 1. Demo and Screenshots
 2. Overview
 3. Motivation 
