@@ -17,8 +17,10 @@ Table of content
 
   
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
- ![HomePage](https://user-images.githubusercontent.com/38296253/190548443-d57d1e6f-ef8e-4109-8cfc-0cae8d188688.PNG)
-
+  <table>
+  <td>
+    ![HomePage](https://user-images.githubusercontent.com/38296253/190548443-d57d1e6f-ef8e-4109-8cfc-0cae8d188688.PNG=100x20)
+  </table>
 
 
 </p>
