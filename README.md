@@ -13,6 +13,15 @@ Table of content
 10. Credits
 
 <h4> Demo and Screenshots</h4>
+<p>The Demo of Fake Detection tool is available at this link:-
+
+  
+ The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
+ ![HomePage](https://user-images.githubusercontent.com/38296253/190548443-d57d1e6f-ef8e-4109-8cfc-0cae8d188688.PNG)
+
+
+
+</p>
 <h4> Overview </h4>
 <h4>Motivation</h4>
 <h4> Dataset </h4>
