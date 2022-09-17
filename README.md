@@ -6,8 +6,8 @@ Table of content
 3. Motivation 
 4. Dataset
 5. Directory Tree
-6. Technical Aspect
-7. Installation Deployment
+6. Installation
+7. Deployment
 8. Technologiees Used
 9. To Do
 10. Credits
@@ -18,10 +18,6 @@ The Demo of Fake Detection tool is available at this link:-
   
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
   
- ![HomePage](https://user-images.githubusercontent.com/38296253/190548443-d57d1e6f-ef8e-4109-8cfc-0cae8d188688.PNG)
-  
-
-
 
 <h4> Overview </h4>
 FDT web app is a python package toolkit and a single platform for detecting fake media. Users can upload facial image, image or video from their local system or by placing URL link of a image or a video. The tool detects it as a fake with a red bounding box or real with a green bounding box and with a confidence score and its metadata details. It is also integrated with Twitter for streaming image tweets and categorize it into real or fake, impact as an influencer or amateur, sentiments as 1(Positive), 0(Neutral) and -1(Megative), etc, and presents other statistics through pie charts. 
@@ -49,7 +45,10 @@ The Dataset should have two folders: train and valid. Both should contain folder
 <h4> Directory Tree </h4>
 
 <h4> Technical Aspect </h4>
-<h4> Installation Deployment </h4>
+<h4> Installation  </h4>
+To install dependencies required, Download this file - environment.yml
+Use this command to create environment from the environment.yml file - conda env create -f environment.yml
+ <h4> Deployment </h4>
 <h4> Technologiees Used </h4>
 <h4> To Do </h4>
 <h4> Credits </h4>
