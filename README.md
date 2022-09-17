@@ -55,6 +55,12 @@ The Code is written in Python 3.7. Also, Download and install Anaconda follow st
 To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
  <h4> Deployment </h4>
+ To run this web app, Go to app folder and run python main_file.py
+ 
 <h4> Technologiees Used </h4>
+![image](https://user-images.githubusercontent.com/38296253/190848411-b39b8984-58fb-4b8d-b193-e2afe43f8b57.png)
+![image](https://user-images.githubusercontent.com/38296253/190848468-b376733f-8cd1-4d16-91f6-7e553841dba1.png)
+
+
 <h4> To Do </h4>
 <h4> Credits </h4>
