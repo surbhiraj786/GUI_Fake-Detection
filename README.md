@@ -45,6 +45,10 @@ The Dataset should have two folders: train and valid. Both should contain folder
 <h4> Directory Tree </h4>
 
 <h4> Technical Aspect </h4>
+This tool is mainly divided into 3 tasks:
+1. For Image Manipulation Detection, Trained UNet Model on Defacto Dataset that comprises approx 30K manipulated images (created using copy-move, splicing, inpainting, etc) with their corresponding ground truths.
+2. For Fake Face Detection, Trained ResNet50+Vit model on Dataset that comprises of approx 134K fake and approx 125K real faces in both Indian and Non-Indian context.
+3. For Deepfake Detection, Trained EfficientNet B7 model on FaceForensics++ dataset.  
 <h4> Installation  </h4>
 To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
