@@ -58,8 +58,8 @@ Use this command to create environment from the environment.yml file- <br>conda 
  To run this web app, Go to app folder and run python main_file.py
  
 <h4> Technologiees Used </h4>
-![image](https://user-images.githubusercontent.com/38296253/190848411-b39b8984-58fb-4b8d-b193-e2afe43f8b57.png)
-![image](https://user-images.githubusercontent.com/38296253/190848468-b376733f-8cd1-4d16-91f6-7e553841dba1.png)
+ ![image](https://user-images.githubusercontent.com/38296253/190848411-b39b8984-58fb-4b8d-b193-e2afe43f8b57.png)
+ ![image](https://user-images.githubusercontent.com/38296253/190848468-b376733f-8cd1-4d16-91f6-7e553841dba1.png)
 
 
 <h4> To Do </h4>
