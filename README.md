@@ -46,8 +46,8 @@ The Dataset should have two folders: train and valid. Both should contain folder
 
 <h4> Technical Aspect </h4>
 <h4> Installation  </h4>
-To install dependencies required, Download this file - environment.yml
-Use this command to create environment from the environment.yml file - conda env create -f environment.yml
+To install dependencies required, Download this file - environment.yml <br>
+Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
  <h4> Deployment </h4>
 <h4> Technologiees Used </h4>
 <h4> To Do </h4>
