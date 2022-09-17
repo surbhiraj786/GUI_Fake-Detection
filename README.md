@@ -32,6 +32,8 @@ To deal with the fakes in the wild and in Indian context, an open source and eas
 Dataset is available on this drive link: -
 For Fake Face and Deepfake Detection, Dataset directory tree are as follow:
 The Dataset should have two folders: train and valid. Both should contain folders named 'fake' and 'real'.
+![image](https://user-images.githubusercontent.com/38296253/190840044-61ae334d-736c-4260-877d-2327beb1b65f.png)
+
 
                                                          |--------|-----real-------0.jpg , 1.jpg , xx.jpg
                                                          |--------|-----fake-------1.jpg , 4.jpg , xx.jpg
@@ -47,6 +49,8 @@ The Dataset should have two folders: train and valid. Both should contain folder
   For Image Manipulation Detection, Dataset directory tree are as follows:
   
   The Dataset should have two folders: train and valid. Both should contain folders named 'images' and 'masks'. The images folder contain manipulated images and their corresponding ground truths are inn masks folder.
+  ![image](https://user-images.githubusercontent.com/38296253/190840029-4458e94b-9af3-49f8-a5c1-73c7b1dd285f.png)
+
   
                                                          |--------|-----images-------0.jpg , 1.jpg , xx.jpg
                                                          |--------|-----masks-------0.jpg , 1.jpg , xx.jpg
