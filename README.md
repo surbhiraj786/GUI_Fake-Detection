@@ -29,10 +29,10 @@ FDT web app is a python package toolkit and a single platform for detecting fake
 <h4>Motivation</h4>
 To deal with the fakes in the wild and in Indian context, an open source and easy-to-use GUI is available for Fake Detection. 
 <h4> Dataset </h4>
-Dataset is available on this drive link: -
+<p>Dataset is available on this drive link: -
 For Fake Face and Deepfake Detection, Dataset directory tree are as follow:
 The Dataset should have two folders: train and valid. Both should contain folders named 'fake' and 'real'.
-
+</p>
                                                          |--------|-----real-------0.jpg , 1.jpg , xx.jpg
                                                          |--------|-----fake-------1.jpg , 4.jpg , xx.jpg
                                                          |
@@ -43,10 +43,10 @@ The Dataset should have two folders: train and valid. Both should contain folder
                                                          |--------|-----real-------10.jpg , 13.jpg , xx.jpg
                                                          |--------|-----fake-------12.jpg , 23jpg , xx.jpg
                                                          
-  
+  <p>
   For Image Manipulation Detection, Dataset directory tree are as follows:
   
-  The Dataset should have two folders: train and valid. Both should contain folders named 'images' and 'masks'. The images folder contain manipulated images and their corresponding ground truths are inn masks folder. 
+  The Dataset should have two folders: train and valid. Both should contain folders named 'images' and 'masks'. The images folder contain manipulated images and their corresponding ground truths are inn masks folder. </p>
   
                                                          |--------|-----images-------0.jpg , 1.jpg , xx.jpg
                                                          |--------|-----masks-------0.jpg , 1.jpg , xx.jpg
