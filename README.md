@@ -50,8 +50,8 @@ This tool is mainly divided into 3 tasks:
 2. For Fake Face Detection, Trained ResNet50+Vit model on Dataset that comprises of approx 134K fake and approx 125K real faces in both Indian and Non-Indian context.
 3. For Deepfake Detection, Trained EfficientNet B7 model on FaceForensics++ dataset.  
 <h4> Installation  </h4>
-The Code is written in Python 3.7. Also, Download and install Anaconda follow steps given in this link:
-      https://docs.anaconda.com/anaconda/install/
+The Code is written in Python 3.7. Also, Download and install Anaconda follow steps given in this link:<br>
+      https://docs.anaconda.com/anaconda/install/ <br>
 To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
  <h4> Deployment </h4>
