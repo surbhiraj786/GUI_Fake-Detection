@@ -83,4 +83,5 @@ Use this command to create environment from the environment.yml file- <br>conda 
 <img src="https://user-images.githubusercontent.com/38296253/190889081-de658f33-d6e3-4568-8dc5-c7fb45871f41.png" width="100">
 
 <h4> To Do </h4>
+To integrate it with other platform like Reddit, Instagram etc.
 <h4> Credits </h4>
