@@ -16,6 +16,7 @@ Table of content
 The Demo of Fake Detection tool is available at this link:-
  
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
+ <br>
  <img src="https://user-images.githubusercontent.com/38296253/190884375-aae133aa-e387-481b-95b2-2dae3eb0f77c.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190883469-e41b98e3-e4fb-4d99-bffb-4804358a0b67.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886226-b6f547bc-2798-4ccd-b218-fcf3dbc31936.PNG" width="300" height="300">
@@ -23,7 +24,7 @@ The Demo of Fake Detection tool is available at this link:-
  <img src="https://user-images.githubusercontent.com/38296253/190886273-39d71438-8493-4122-87ad-f20524953696.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886297-93abce95-139a-4bc2-99dc-441065927a06.PNG" width="300" height="300">
  <br>
- The screenshots of web page of Twitter streaming of images are:- <br>
+ The screenshots of web page of Twitter streaming of images are:- <br><br>
  <img src="https://user-images.githubusercontent.com/38296253/190886414-5979d273-c9af-44a3-9c85-a0e5dde3d1f1.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886522-6f978079-c550-4dac-ab24-0818b8219917.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886430-c407803d-8143-44f9-83ba-3e3ef62eb01f.PNG" width="300" height="300">
