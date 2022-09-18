@@ -60,7 +60,7 @@ Use this command to create environment from the environment.yml file- <br>conda 
  Step 1- conda activate env<br>
  To run this web app, Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
  Example is shown as: 
- <img src="https://user-images.githubusercontent.com/38296253/190883352-9dc177b8-c802-41fa-89d7-a6b996dd5c46.PNG" width="200" height="200">
+ <img src="https://user-images.githubusercontent.com/38296253/190883776-acd3512d-cb37-431b-9195-7b527a77b64a.PNG" width="200" height="200">
 
  
 <h4> Technologiees Used </h4>
