@@ -17,7 +17,7 @@ The Demo of Fake Detection tool is available at this link:-
 
   
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
- <img src="https://user-images.githubusercontent.com/38296253/190883352-9dc177b8-c802-41fa-89d7-a6b996dd5c46.PNG" width="400" height="300">
+ <img src="https://user-images.githubusercontent.com/38296253/190884375-aae133aa-e387-481b-95b2-2dae3eb0f77c.PNG" width="400" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190883469-e41b98e3-e4fb-4d99-bffb-4804358a0b67.PNG" width="400" height="300">
 
 <h4> Overview </h4>
