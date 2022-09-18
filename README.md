@@ -13,7 +13,8 @@ Table of content
 10. Credits
 
 <h4> Demo and Screenshots</h4>
-The Demo of Fake Detection tool is available at this link:-
+The Demo of Fake Detection tool is available at this link:- 
+https://drive.google.com/file/d/1RsPGeFppCPHbN7SoxsW9ZudJlAz95aSc/view?usp=sharing
  
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
  <br>
@@ -53,7 +54,9 @@ The Dataset should have two folders: train and valid. Both should contain folder
   
 
 
-<h4> Directory Tree </h4>
+<h4> Directory</h4>
+The folder containing all files is available at the link:-
+https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
 
 <h4> Technical Aspect </h4>
 This tool is mainly divided into 3 tasks:
