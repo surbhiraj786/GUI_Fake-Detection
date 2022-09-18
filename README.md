@@ -47,7 +47,7 @@ The Dataset should have two folders: train and valid. Both should contain folder
 
 <h4> Technical Aspect </h4>
 This tool is mainly divided into 3 tasks:
-1. For Image Manipulation Detection, Trained UNet Model on Defacto Dataset that comprises approx 30K manipulated images (created using copy-move, splicing, inpainting, etc) with their corresponding ground truths.
+1. For Image Manipulation Detection, Trained U-Net Model on Defacto Dataset that comprises approx 30K manipulated images (created using copy-move, splicing, inpainting, etc) with their corresponding ground truths.
 2. For Fake Face Detection, Trained ResNet50+Vit model on Dataset that comprises of approx 134K fake and approx 125K real faces in both Indian and Non-Indian context.
 3. For Deepfake Detection, Trained EfficientNet B7 model on FaceForensics++ dataset.  
 <h4> Installation  </h4>
@@ -55,8 +55,13 @@ The Code is written in Python 3.7. Also, Download and install Anaconda follow st
       https://docs.anaconda.com/anaconda/install/ <br>
 To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
+
  <h4> Deployment </h4>
- To run this web app, Go to app folder and run python main_file.py
+ Step 1- conda activate env<br>
+ To run this web app, Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
+ Example is shown as: 
+ <img src="https://user-images.githubusercontent.com/38296253/190883352-9dc177b8-c802-41fa-89d7-a6b996dd5c46.PNG" width="200" height="200">
+
  
 <h4> Technologiees Used </h4>
  ![image](https://user-images.githubusercontent.com/38296253/190848411-b39b8984-58fb-4b8d-b193-e2afe43f8b57.png)
