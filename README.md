@@ -23,9 +23,13 @@ The Demo of Fake Detection tool is available at this link:-
  <img src="https://user-images.githubusercontent.com/38296253/190886193-030e942a-afe4-4d45-a989-849e62ae2c54.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886273-39d71438-8493-4122-87ad-f20524953696.PNG" width="300" height="300">
  <img src="https://user-images.githubusercontent.com/38296253/190886297-93abce95-139a-4bc2-99dc-441065927a06.PNG" width="300" height="300">
+ <br><br>
+ The screenshots of web page of Twitter streaming of images are:- 
+ <img src="https://user-images.githubusercontent.com/38296253/190886414-5979d273-c9af-44a3-9c85-a0e5dde3d1f1.PNG" width="300" height="300">
+ <img src="https://user-images.githubusercontent.com/38296253/190886414-5979d273-c9af-44a3-9c85-a0e5dde3d1f1.PNG" width="300" height="300">
+ <img src="https://user-images.githubusercontent.com/38296253/190886430-c407803d-8143-44f9-83ba-3e3ef62eb01f.PNG" width="300" height="300">
 
-<h4> Ove![ResultFakeFace](https://user-images.githubusercontent.com/38296253/190886193-030e942a-afe4-4d45-a989-849e62ae2c54.PNG)
-rview </h4>
+<h4> Overview </h4>
 FDT web app is a python package toolkit and a single platform for detecting fake media. Users can upload facial image, image or video from their local system or by placing URL link of a image or a video. The tool detects it as a fake with a red bounding box or real with a green bounding box and with a confidence score and its metadata details. It is also integrated with Twitter for streaming image tweets and categorize it into real or fake, impact as an influencer or amateur, sentiments as 1(Positive), 0(Neutral) and -1(Megative), etc, and presents other statistics through pie charts. 
 
 <h4>Motivation</h4>
