@@ -14,10 +14,14 @@ Table of content
 
 <h4> Demo and Screenshots</h4>
 
+<h5>Demo of Web App: </h5> 
+![Demo_FDS_WebApp](https://user-images.githubusercontent.com/38296253/191457496-5238628f-6770-43ca-960a-24dd365acabc.gif)
+
+
 The Demo of Fake Detection tool is available at this link:- 
 https://drive.google.com/file/d/1RsPGeFppCPHbN7SoxsW9ZudJlAz95aSc/view?usp=sharing
 
-![Demo_FDS_WebApp](https://user-images.githubusercontent.com/38296253/191457496-5238628f-6770-43ca-960a-24dd365acabc.gif)
+<br><br>
 
  
  The screenshots of the results page for detection of fake facial image, fake image and fake video are:-
