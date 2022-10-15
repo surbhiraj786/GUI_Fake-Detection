@@ -101,4 +101,7 @@ Use this command to create environment from the environment.yml file- <br>conda 
 To integrate it with other platform like Reddit, Instagram etc.
 <h4> Note </h4>
 Due to restriction in uploading of file size on github, the entire code is available on google drive link. Please refer to google drive link - https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
+
+<h4> Contact </h4>
+For any queries and doubts, Please contact us at this email id: surbhiraj786@gmail.com, surbhi_2021cs36@iitp.ac.in
  
