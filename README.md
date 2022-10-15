@@ -57,15 +57,15 @@ The Dataset should have two folders: train and valid. Both should contain folder
   The Dataset should have two folders: train and valid. Both should contain folders named 'images' and 'masks'. The images folder contain manipulated images and their corresponding ground truths are inn masks folder.
 
   ![image](https://user-images.githubusercontent.com/38296253/190840029-4458e94b-9af3-49f8-a5c1-73c7b1dd285f.png)
-
-  
-  
   
 
 
 <h4> Directory</h4>
 Due to limitation of file size upload on github(Static and template folder of web application is not available here), the entire code of FDT tool is uploaded on this google drive link:-
 https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
+
+for testing images, faces and videos on the FDT tool, samples of images, faces and videos are vailable in the directory as give in the following steps:
+Go to avobe drive link, Download folder 
 
 
 <h4> Technical Aspect </h4>
