@@ -64,8 +64,9 @@ The Dataset should have two folders: train and valid. Both should contain folder
 
 
 <h4> Directory</h4>
-The folder containing all files is available at the link:-
+Due to limitation of file size upload on github(Static and template folder of web application is not available here), the entire code of FDT tool is uploaded on this google drive link:-
 https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
+
 
 <h4> Technical Aspect </h4>
 This tool is mainly divided into 3 tasks:
@@ -77,6 +78,8 @@ The Code is written in Python 3.7. Also, Download and install Anaconda follow st
       https://docs.anaconda.com/anaconda/install/ <br>
 To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
+
+*Must keep this file facenet_pytorch-2.2.7-py3-none-any.whl in the same folder to install dependency 
 
  <h4> Deployment </h4>
  Step 1- conda activate env<br>
@@ -96,4 +99,6 @@ Use this command to create environment from the environment.yml file- <br>conda 
 
 <h4> To Do </h4>
 To integrate it with other platform like Reddit, Instagram etc.
-<h4> Credits </h4>
+<h4> Note </h4>
+Due to restriction in uploading of file size on github, the entire code is available on google drive link. Please refer to google drive link - https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
+ 
