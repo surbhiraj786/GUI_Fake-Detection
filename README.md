@@ -20,7 +20,10 @@ Table of content
 
 <br>
 The Demo of Fake Detection tool is available at this link:- 
-https://drive.google.com/file/d/1RsPGeFppCPHbN7SoxsW9ZudJlAz95aSc/view?usp=sharing
+https://drive.google.com/file/d/1Mx-uEaHOGk7V7KL3QJ_TJLNOS7DhOFjn/view?usp=sharing (for GIF video)<br>
+https://drive.google.com/file/d/1BeTUMwci9uNNuU7RxOkGy4SHAM0PJ6u5/view?usp=share_link
+
+
 
 <br><br>
 
