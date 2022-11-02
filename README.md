@@ -65,9 +65,8 @@ Due to limitation of file size upload on github(Static and template folder of we
 https://drive.google.com/drive/folders/1In68OsTDfS4iaJbaj8jgtEYE-qBaXAfw?usp=sharing
 
 for testing images, faces and videos on the FDT tool, samples of images, faces and videos are vailable in the directory as give in the following steps:
-Go to avobe drive link, Download folder Fake_Detection_Tool. Go to folder Fake_Detection_Tool > test_samples > Full Images <br>
-                                                                                                             > Facial Images<br>
-                                                                                                             > Videos <br>
+Go to avobe drive link, Download folder Fake_Detection_Tool. Go to folder Fake_Detection_Tool > test_samples > Full Images / Facial Images / Videos
+                                                                                                             
 
 
 <h4> Technical Aspect </h4>
