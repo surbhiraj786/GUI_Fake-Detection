@@ -62,10 +62,12 @@ The Dataset should have two folders: train and valid. Both should contain folder
 
 <h4> Directory</h4>
 Due to limitation of file size upload on github(Static and template folder of web application is not available here), the entire code of FDT tool is uploaded on this google drive link:-
-https://drive.google.com/file/d/1rHRgjLxT1qaSYwxab3MNaj6Uiy2kGVXQ/view?usp=sharing
+https://drive.google.com/drive/folders/1In68OsTDfS4iaJbaj8jgtEYE-qBaXAfw?usp=sharing
 
 for testing images, faces and videos on the FDT tool, samples of images, faces and videos are vailable in the directory as give in the following steps:
-Go to avobe drive link, Download folder 
+Go to avobe drive link, Download folder Fake_Detection_Tool. Go to folder Fake_Detection_Tool > test_samples > Full Images
+                                                                                                             > Facial Images
+                                                                                                             > Videos
 
 
 <h4> Technical Aspect </h4>
@@ -83,7 +85,9 @@ Use this command to create environment from the environment.yml file- <br>conda 
 
  <h4> Deployment </h4>
  Step 1- conda activate env<br>
- To run this web app, Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
+ To run this web app:
+ 
+ Step 1: Download the folder <b>Fake_Detection_Tool</b> from drive link where the complete code in folder Fake_Detection_Tool is available.Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
  Example is shown as: 
  <img src="https://user-images.githubusercontent.com/38296253/190883776-acd3512d-cb37-431b-9195-7b527a77b64a.PNG" width="300" height="200">
 
