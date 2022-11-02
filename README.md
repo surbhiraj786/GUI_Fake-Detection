@@ -79,15 +79,14 @@ This tool is mainly divided into 3 tasks:
 The Code is written in Python 3.7. Also, Download and install Anaconda follow steps given in this link:<br>
       https://docs.anaconda.com/anaconda/install/ <br>
 To install dependencies required, Download this file - environment.yml <br>
-Use this command to create environment from the environment.yml file- <br>conda env create -f environment.yml
+Use this command to create environment from the environment.yml file- <br><b>conda env create -f environment.yml</b>
 
 *Must keep this file facenet_pytorch-2.2.7-py3-none-any.whl in the same folder to install dependency 
 
  <h4> Deployment </h4>
- Step 1- conda activate env<br>
  To run this web app:
- 
- Step 1: Download the folder <b>Fake_Detection_Tool</b> from drive link where the complete code in folder Fake_Detection_Tool is available.Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
+ Step 1- conda activate env<br>
+ Step 2: Download the folder <b>Fake_Detection_Tool</b> from drive link where the complete code in folder Fake_Detection_Tool is available.Go to app folder and run python main_file.py . It will give localhost address -  http://127.0.0.1:5001/ where the tool is hosted at this address.
  Example is shown as: 
  <img src="https://user-images.githubusercontent.com/38296253/190883776-acd3512d-cb37-431b-9195-7b527a77b64a.PNG" width="300" height="200">
 
